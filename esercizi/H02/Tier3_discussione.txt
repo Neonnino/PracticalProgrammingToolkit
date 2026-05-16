@@ -1,0 +1,2 @@
+Come si vede dal grafico all'inizio la convegenza è rapidissima: passare da N=10 a N=100 abbatte l'errore in modo drastico e visibile.
+Se invece desideriamo far passare l'errore da 10^-1 a 10^-2, dobbiamo aumentare il numero di interazione da meno di 100 a quasi 10000. Questo aumenta significativamente il costo computazionale e se volessimo una stima ancora più precisa dovremmo aumentare enormemente il numero di interazioni per via della convergenza lenta.
