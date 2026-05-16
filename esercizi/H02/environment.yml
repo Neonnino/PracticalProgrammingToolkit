@@ -1,0 +1,12 @@
+name: PracticalProgramming
+channels:
+  - conda-forge
+dependencies:
+  - ipython
+  - matplotlib
+  - nbclassic
+  - notebook
+  - numpy
+  - scipy
+
+prefix: "/home/matteo/miniforge3/envs/PracticalProgramming"
